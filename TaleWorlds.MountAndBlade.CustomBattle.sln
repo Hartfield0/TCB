@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaleWorlds.MountAndBlade.CustomBattle", "TaleWorlds.MountAndBlade.CustomBattle.csproj", "{FC1146EA-1102-4C5A-87C6-395EFEFA2213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1146EA-1102-4C5A-87C6-395EFEFA2213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1146EA-1102-4C5A-87C6-395EFEFA2213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1146EA-1102-4C5A-87C6-395EFEFA2213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1146EA-1102-4C5A-87C6-395EFEFA2213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83561327-251E-4FDA-93FE-7B08F6DA1AA9}
+	EndGlobalSection
+EndGlobal
